@@ -5,6 +5,6 @@
 	 - [ ] ./GUI
 	 
 # Sample
-![Image of GUI](https://drive.google.com/open?id=1QLUuJ7f0Dg9pbpiso7IRXZ5-EASKfiaD)
+![Image of GUI](https://github.com/ganeshb15/Tools/blob/master/MiniReactis/Installation/Ubunutu/MiniReactis.png)
  - [ ] This is to Execute the Sample Folder. 
 

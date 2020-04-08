@@ -1,0 +1,1 @@
+- [ ] Follow the following setup in this [Link](https://raw.githack.com/prithvisekhar/VehicalDiagnosticAlgo/gh-pages/docs/OnlineSetup/OnlineSetup.html).

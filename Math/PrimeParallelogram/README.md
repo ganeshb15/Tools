@@ -10,6 +10,6 @@ Rules of computation :
 4.  X2-X is the wanted output Y5. 
  You can check the output here :
  
- ![enter image description here](Prime%20%20Parallelogram)
+![enter image description here](https://github.com/ganeshb15/Tools/blob/master/Math/PrimeParallelogram/PrimeParallelogram.png)
  
 You can play around with other parameters as well.

@@ -8,7 +8,9 @@ Rules of computation :
 2.  Conver it to Binary and reverse it (say the output of this is X1)    
 3.  Convert X1 to decimal (say output ass X2)    
 4.  X2-X is the wanted output Y5. 
- You can check the output here :
+
+ You can check the output here : https://primeparallelogram.herokuapp.com/
+ 
  
 ![enter image description here](https://github.com/ganeshb15/Tools/blob/master/Math/PrimeParallelogram/PrimeParallelogram.png)
  

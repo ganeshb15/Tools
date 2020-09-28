@@ -9,4 +9,7 @@ Rules of computation :
 3.  Convert X1 to decimal (say output ass X2)    
 4.  X2-X is the wanted output Y5. 
  You can check the output here :
+ 
+ ![enter image description here](Prime%20%20Parallelogram)
+ 
 You can play around with other parameters as well.

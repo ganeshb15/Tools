@@ -1,13 +1,20 @@
+# Tool Collection Overview
 
-# Tools
+- Each folder contains a specific tool or application.
+- These tools are my small contribution to provide free resources or solutions that were hard to find.
+- The tools are simple and designed for small-scale applications, making them accessible for various use cases.
 
+## Current Tools
+- **'create_srt' tool**: 
+  - A GUI that allows you to load timestamps and content to generate an SRT file for video subtitles.
+  
+- **Binary/ASCII art tool**: 
+  - Converts an existing image into binary or ASCII-based art with adjustable threshold using a slider.
+  
+- **Mathematical theory tool**: 
+  - Visualizes and proves a specific math theory.
 
-Each of the folders is a specific application. It's a small contribution from my end to make things that I couldn't find as a free resource/tool. Tools are simple, so they can be used for small-scale applications.
-
-Following is the way folders are structured.
-
- - [ ] Function : Where the code is present.[Not required for using the tool. Only if someone is intrested in the functioning can look into it]
- - [ ] Installation: Installation file and installation process is provided based on linux or windows os.
- - [ ] Sample: Sample files required and instruction of how to run it with the tool.
-
-Feel free to use the tools. In case of bugs or improvment aspect feel free to raise an issue or mail me at ganeshbhagwat255@gmail.com. Will respond as soon as possible. All feedbacks and comments are apriciated.
+## Future Development
+- These tools are small programs that don’t yet require full-scale projects or repositories.
+- If any of these tools grow in scope, they can be migrated to separate Git repositories in the future.
+- Currently, there are only three types of tools, but more may be added later.
